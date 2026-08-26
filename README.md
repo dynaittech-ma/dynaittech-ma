@@ -1,6 +1,6 @@
 <img src="https://github.com/dynaittech-ma.png" width="120" align="right"/>
 
-# Hi, I'm Dyna 👋 | Branding & IT ✨
+# Hi, I'm Rajae 👋 | Branding & IT ✨
 
 ### 🎨 Founder @ Dyna ITTech.ma
 
@@ -23,6 +23,6 @@
 
 ---
 
-💛 *"Let's build your brand that shines!"* - Dyna ITTech
+💛 *"Let's build your brand that shines!"* - Dyna ITTech.ma
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dynaittech-ma&color=orange&style=flat)
