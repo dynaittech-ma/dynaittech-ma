@@ -23,6 +23,6 @@
 
 ---
 
-💛 *"Let's build your brand that shines!"* - Dyna
+💛 *"Let's build your brand that shines!"* - Dyna ITTech
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dynaittech-ma&color=orange&style=flat)
