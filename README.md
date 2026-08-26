@@ -1,6 +1,6 @@
 <img src="https://github.com/dynaittech-ma.png" width="120" align="right"/>
 
-# Hi, I'm Rajae 👋 | Branding & IT ✨
+# Hi, I'm Rajae 👋 | Branding & IT Service ✨
 
 ### 🎨 Founder @ Dyna ITTech.ma
 
