@@ -1,16 +1,28 @@
-## Hi there 👋
+<img src="https://github.com/dynaittech-ma.png" width="120" align="right"/>
 
-<!--
-**dynaittech-ma/dynaittech-ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Dyna 👋 | Branding & IT ✨
 
-Here are some ideas to get you started:
+### 🎨 Founder @ Dyna ITTech.ma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Helping brands glow and grow — from Morocco to the world 🇲🇦✨
+
+---
+
+### 🚀 What I Do
+
+- 🎨 **Branding** - Logo & Visual Identity
+- 🖌️ **Design** - Social Media & Print  
+- 🌐 **Websites** - Modern, Fast, Responsive
+- ⚙️ **IT Solutions** - Support & Consulting
+
+### 🌟 Let's Work Together
+
+📍 **Location:** Temara, Morocco - Remote Worldwide  
+📧 **Email:** dynatech.ma@gmail.com  
+📸 **Instagram:** [@dynaittech.ma](https://www.instagram.com/dynaittech.ma)
+
+---
+
+💛 *"Let's build your brand that shines!"* - Dyna
+
+![Profile Views](https://komarev.com/ghpvc/?username=dynaittech-ma&color=orange&style=flat)
