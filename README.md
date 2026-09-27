@@ -1,6 +1,6 @@
 <img src="https://github.com/dynaittech-ma.png" width="120" align="right"/>
 
-# Hi, I'm Rajae 👋 | Branding & IT Service ✨
+# Hi, I'm Rajae 👋 | Branding & Digital Design Studio ✨
 
 ### 🎨 Founder @ Dyna ITTech.ma
 
@@ -10,10 +10,10 @@
 
 ### 🚀 What I Do
 
-- 🎨 **Branding** - Logo & Visual Identity
-- 🖌️ **Design** - Social Media & Print  
+- 🎨 **Branding** - Branding & Digital Design Studio 
+- 🖌️ **Design** - Logo • Packaging • Visual Identity • Social Media & Print  
 - 🌐 **Websites** - Modern, Fast, Responsive
-- ⚙️ **IT Solutions** - Support & Consulting
+
 
 ### 🌟 Let's Work Together
 
